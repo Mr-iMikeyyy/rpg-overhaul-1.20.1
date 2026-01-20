@@ -1,4 +1,4 @@
 {
-  "is_proxy": true,
+  "is_proxy": false,
   "spell_ids": [ "rpgo:lightning_bolt" ]
 }
